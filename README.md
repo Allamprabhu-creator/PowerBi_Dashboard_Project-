@@ -82,7 +82,7 @@ To establish an intuitive, single source of truth dashboard that empowers execut
 ## 📸 Screenshots
 
 ### Page 1: Overview Analysis Dashboard
-
+https://github.com/Allamprabhu-creator/PowerBi_Dashboard_Project-/blob/main/Overview%20Analysis.PNG.png
 
 ### Page 2: Detailed Transaction Log Grid
-
+https://github.com/Allamprabhu-creator/PowerBi_Dashboard_Project-/blob/main/Transactions.PNG.png
